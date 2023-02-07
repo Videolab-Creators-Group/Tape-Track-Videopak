@@ -54,7 +54,6 @@ Hidden Motion Track Controls - There are randomize buttons on the very bottom gr
 # Tester / Experimentor Info
 - You are brave souls, and are probably as inspired with TE products as I am. Thank you for your energy!
 - Feel free to use this for whatever you want, in videos, etc. There’s nothing I’m trying to keep under wraps.
-- I just ask that you send people to the sign-up sheet if they want to download, so that I can distribute the copies…or at least get email addresses for communication of future updates. Please don’t publicly distribute.
 - SEND FEEDBACK! I’d love to hear your ideas. Also know that most of the add-on features are really Proof-Of-Concept… like I haven’t really “dialed in” the exact Wobble sound I want, but I know it works and just have to change some numbers.
 - Features I want to add:
 * A way to view parameters, but be able to turn them on or off. This way, you can operate “blind” like effect pedals if you want.
