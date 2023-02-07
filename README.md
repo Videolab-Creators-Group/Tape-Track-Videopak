@@ -70,7 +70,7 @@ Hidden Motion Track Controls - There are randomize buttons on the very bottom gr
 # Working Title - Chronoscope
 I’m working on a logo that I will put on the cassette tape at some point.
 
-[Download the Videopak Here](about:blank)
+[Download the Videopak Here](https://github.com/Videolab-Creators-Group/Tape-Track-Videopak/releases/download/v0.08/chronoscope.v0.08.zpak)
 
 This was really long. Sorry. Enjoy, and stay in touch. I may add more updates, but not before I play around with this more!
 
@@ -81,7 +81,7 @@ I post videopak updates and experiments on my Instagram - @bradthedesigner
 
 —--------------------------------------------------
 
-Here’s a new version. [Chronoscope v0.08](about:blank)
+Here’s a new version. [Chronoscope v0.08](https://github.com/Videolab-Creators-Group/Tape-Track-Videopak/releases/download/v0.08/chronoscope.v0.08.zpak)
 
 # Notes:
 - Fixed the normal “un-snapped” tape speed - it didn’t work
