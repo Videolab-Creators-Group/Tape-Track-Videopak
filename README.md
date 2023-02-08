@@ -3,24 +3,24 @@
 ![image](Images/tape-track.png)
 
 Thanks!
-First, I’m excited you’re interested in trying out this crazy videopak I started making for myself! I’m not too sure this will ever be a “commercial” videopak offering, just because it’s limiting to design the UI for many kinds of devices, as well as the fact that I just don’t have the capacity (with my full time freelance graphic/UX design business) to make this function completely bug free. One of the beauties of the Videolab environment is that you can just make things for yourself…to experiment, test, or to enhance your own music. Please read all the info below, so you at least know the ins and outs of how to use this videopak, and the idea behind it.
+First, I’m excited you’re interested in trying out this crazy videopak I started making for myself! I’m not too sure this will ever be a “commercial” videopak offering, just because it’s limiting to design the UI for many kinds of devices, as well as the fact that I just don’t have the capacity (with my full time freelance graphic/UX design business) to make this function completely bug free. One of the beauties of the Videolab environment is that you can just make things for yourself…to experiment, test, or to enhance your own music. **Please read all the info below**, so you at least know the ins and outs of how to use this videopak, and the idea behind it.
 
 
 # Concepts
 
-Playing, Having Fun & Exploring
+# Playing, Having Fun & Exploring
 After collecting several synths and effects to connect to the OP-Z, I realized I was making less music..because I had to sit down in my music room and connect the OP-Z to things. This defeats one of the reasons I purchased it. It’s such a small, quick, inspiring instrument…I was losing some of the joy of sitting on the couch, making a track. I started thinking there were things I wasn’t fully exploring on the Z, mainly because I didn’t have every control easily tweakable…like an effects pedal. The Z comes fully equipped with effects and creative sound utilizations like the tape track, which is a full audio buffer, but I wasn’t pushing the envelope with anything. I thought, what if I made something that looked like a hardware device, with touch sensitive metal…like some circuit bent device, and added a cassette tape to it?!
 
-#onlyopz
+**#onlyopz**\
 Along with this epiphany, came the idea that I should really try and limit my track creation to only the OP-Z…just to push myself…and the little synth. As most people have guessed, I’m not a pro musician, and am having fun in my mid-40’s, exploring synth music. The Z seems perfect for this. As a side note, shoot me a link or something if you are creating #onlyopz tracks… I want to keep track of anyone doing that.
 
 
 # Videopak Info
 You really ought to read this, so you don’t get too frustrated with this “alpha release” software.
 - This videopak is HUGE. 585 MB … I think it’s because I wanted the tape to look extra sharp and real, so the animation is made of high-res PNGs…and lots of them. 
-- I can only confirm that the UI works on a 12” iPad Pro. I designed it very specifically for the pixel dimensions of this iPad. This allowed me to control the design in minute detail, instead of having it work for all devices. Also I made the cassette actual size, so it would look proportioned right in videos or photos. From the top, this UI almost can pass for a piece of hardware. It probably cuts off on other devices. There probably is a way to make it fit on other devices, but would leave extra space around some of the edges. Also, the phone is too small.
-- The UI layer has to be turned off to exit the videopak. Some weird things happen when you make “UI Touch” controls with Videolab. Or at least, when I try it. It covers up the whole OP-Z app. You can’t get out of the Videopak. I put a hidden button in the top right corner of the UI that turns off the UI in the videopak, so you can exit the videopak. It also means you probably have to close the OP-Z app and open it again to re-load the videopak. I can fix this with an “On” button but haven’t yet.
-- Use at your own risk. It’s all just midi messages, but I wouldn’t use on songs you have completely dialed in without backing up first. You may end up permanently changing some parameters, and your song may never stay the same.
+- I can only confirm that the UI works on a **12” iPad Pro**. I designed it very specifically for the pixel dimensions of this iPad. This allowed me to control the design in minute detail, instead of having it work for all devices. Also I made the cassette actual size, so it would look proportioned right in videos or photos. From the top, this UI almost can pass for a piece of hardware. It probably cuts off on other devices. There probably is a way to make it fit on other devices, but would leave extra space around some of the edges. Also, the phone is too small.
+- The **UI layer has to be turned off to exit the videopak**. Some weird things happen when you make “UI Touch” controls with Videolab. Or at least, when I try it. It covers up the whole OP-Z app. You can’t get out of the Videopak. I put a hidden button in the **top right corner of the UI** that turns off the UI in the videopak, so you can exit the videopak. It also means you probably have to close the OP-Z app and open it again to re-load the videopak. I can fix this with an “On” button but haven’t yet.
+- **Use at your own risk**. It’s all just midi messages, but I wouldn’t use on songs you have completely dialed in without backing up first. You may end up permanently changing some parameters, and your song may never stay the same.
 - It’s sending midi to the Tape Track, and both effects tracks. If you record anything while on the Motion track, sometimes it records the midi messages on those tracks also.
 - Most functions are on the UI, there are additional randomize functions on the motion track.
 - Current parameters aren’t changed until you change something on the UI. ***Sidenote***I still haven’t really understood how I can make videopak midi controls, control parameters relative to the current parameters on the synth.
@@ -42,7 +42,7 @@ You really ought to read this, so you don’t get too frustrated with this “al
 - Bottom circles - this is a playable keyboard for the tape track. (The bottom gray keys.) Or you could just record notes on the tape track itself.
 - Wet - this is the audio level of the tape track. Bottom of the slider, you won’t hear the tape track when engaged. Top, you’ll hear it at full volume.
 
-Hidden Motion Track Controls - There are randomize buttons on the very bottom gray keys on the motion track. Most turn on randomize, when held down or recorded. ATTN: You MUST record notes on the Module track sequencer for randomize to work. It looks to that track to trigger randomize events at the proper time. Record a note on every step of the module track. I may change this in the future, it’s just what I did to test the randomize features.
+Hidden Motion Track Controls - There are randomize buttons on the very bottom gray keys on the motion track. Most turn on randomize, when held down or recorded. **ATTN: You MUST record notes on the Module track sequencer for randomize to work. It looks to that track to trigger randomize events at the proper time. Record a note on every step of the module track. I may change this in the future, it’s just what I did to test the randomize features.**
 - F key (bottom left) - Randomize notes. This will trigger random tape track notes, at random times, when the button is pushed or recorded. (Plays the tape track)
 - G - Randomize Loop Length
 - A - Randomizes Tape Speed Fine (works with Snap & Wobble)
@@ -56,17 +56,17 @@ Hidden Motion Track Controls - There are randomize buttons on the very bottom gr
 - Feel free to use this for whatever you want, in videos, etc. There’s nothing I’m trying to keep under wraps.
 - SEND FEEDBACK! I’d love to hear your ideas. Also know that most of the add-on features are really Proof-Of-Concept… like I haven’t really “dialed in” the exact Wobble sound I want, but I know it works and just have to change some numbers.
 - Features I want to add:
-* A way to view parameters, but be able to turn them on or off. This way, you can operate “blind” like effect pedals if you want.
-* On/Off visuals for things like snap.
-* Control the amount of randomization on those settings
-* Logo on the cassette tape
-* More cassette tape changes based on parameters
-* More official way to turn the UI on and off
-* Make it fit, at least more tablet devices
-* Tweak the UI .. there’s some things I would change, as well as add. Not sure if we need the keys or if I should put randomize there.
+  * A way to view parameters, but be able to turn them on or off. This way, you can operate “blind” like effect pedals if you want.
+  * On/Off visuals for things like snap.
+  * Control the amount of randomization on those settings
+  * Logo on the cassette tape
+  * More cassette tape changes based on parameters
+  * More official way to turn the UI on and off
+  * Make it fit, at least more tablet devices
+  * Tweak the UI .. there’s some things I would change, as well as add. Not sure if we need the keys or if I should put randomize there.
 
 
-# Working Title - Chronoscope
+# Working Title - **Chronoscope**
 I’m working on a logo that I will put on the cassette tape at some point.
 
 [Download the Videopak Here](https://github.com/Videolab-Creators-Group/Tape-Track-Videopak/releases/download/v0.08/chronoscope.v0.08.zpak)
